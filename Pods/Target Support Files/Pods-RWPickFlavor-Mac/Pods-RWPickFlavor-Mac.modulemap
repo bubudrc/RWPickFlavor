@@ -1,0 +1,6 @@
+framework module Pods_RWPickFlavor_Mac {
+  umbrella header "Pods-RWPickFlavor-Mac-umbrella.h"
+
+  export *
+  module * { export * }
+}
