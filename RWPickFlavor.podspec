@@ -8,7 +8,7 @@ s.summary = "RWPickFlavor lets a user share code between iOS and MAC's platform'
 s.requires_arc = true
 
 # 2
-s.version = "0.1.1"
+s.version = "0.1.2"
 
 # 3
 s.license = { :type => "MIT", :file => "LICENSE" }
@@ -29,7 +29,7 @@ s.framework = "UIKit"
 s.dependency 'Reachability'
 
 # 8
-s.source_files = "RingSharedFramework/**/*.{h,m}"
+s.source_files = "RWPickFlavor/**/*.{h,m}"
 
 s.ios.deployment_target = "8.0"
 s.osx.deployment_target = "10.9"
