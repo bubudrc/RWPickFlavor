@@ -27,7 +27,7 @@ s.framework = "UIKit"
 s.dependency 'Reachability'
 
 # 8
-s.source_files = "RWPickFlavor/**/*.{h,m}"
+s.source_files = "Test/RWPickFlavor/**/*.{h,m}"
 
 s.ios.deployment_target = "8.0"
 s.osx.deployment_target = "10.9"
