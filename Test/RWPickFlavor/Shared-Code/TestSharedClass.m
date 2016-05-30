@@ -11,7 +11,7 @@
 @implementation TestSharedClass
 
 +(void)log {
-    NSLog(@"Hello world!");
+    NSLog(@"Hello world!!");
 }
 
 @end
